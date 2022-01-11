@@ -1,0 +1,58 @@
+.rigth-camila {
+    width: 100%; 
+    text-align: right;
+    
+}
+ .Tamanio {
+     width: 191px;
+ }
+
+.tamanio-carta {
+    width: 430;
+    height: 376px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.cuerpo {
+    background-color: #d9d9d961;
+}
+
+.inicio {
+    width: 388px;
+    height: 48px;
+}
+
+.mediana {
+    height: 150px !important;
+}
+.esconder {
+    visibility: hidden;
+}
+.mostrar {
+    visibility: initial;
+}
+
+.box{
+    width: 100px;
+    height: 100px;
+}
+
+.red{
+    background-color: rgb(255, 113, 113);
+}
+
+.blue{
+    background-color: rgb(119, 119, 247);
+}
+
+.purple{
+    background-color: rgb(188, 132, 241);
+}
+
+.beige{
+    background-color: beige;
+}
+
+.negrita {
+    font-weight: 700;
+}
